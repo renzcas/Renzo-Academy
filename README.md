@@ -15,8 +15,8 @@ Renzo's Academy is the index for a connected set of projects about understanding
 | AgentDash | Current focus; running the MVP locally is next |
 | Renzos-Cave | Progress not tracked here yet |
 | Renzo-Hacking-Lab | Planned; repository link pending |
-| CaveSharp-OS | Progress not tracked here yet |
-| Renzoverse | Progress not tracked here yet |
+| CaveSharp-OS | Status not verified in this checkout |
+| Renzoverse | Status not verified in this checkout |
 
 ## Project Index
 
